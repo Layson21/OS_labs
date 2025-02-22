@@ -21,12 +21,6 @@ namespace WindowsFormsApp1
             this.comboBox1.SelectedIndex = 2;
             this.comboBox2.SelectedIndex = 0;
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button_Click(object sender, EventArgs e)
         {
             double value;
@@ -101,6 +95,8 @@ namespace WindowsFormsApp1
 
             float initial_button1_width = 130f;
             float initial_button1_heigth = 60f;
+            float initial_button2_width = 100f;
+            float initial_button2_heigth = 26f;
             float initial_font1_size = 16f;
             float initial_font2_size = 11f;
             float initial_textBox_height = 40f;
@@ -109,6 +105,8 @@ namespace WindowsFormsApp1
 
             button1.Width = (int)(initial_button1_width * ratio);
             button1.Height = (int)(initial_button1_heigth * ratio);
+            button2.Width = (int)(initial_button2_width * ratio);
+            button2.Height = (int)(initial_button2_heigth * ratio);
             textBox1.Width = (int)(initial_textBox_width * ratio);
             textBox1.Height = (int)(initial_textBox_height * ratio);
             textBox2.Width = (int)(initial_textBox_width * ratio);
@@ -117,6 +115,7 @@ namespace WindowsFormsApp1
             comboBox2.Width = (int)(comboBox_width * ratio);
 
             button1.Font = new Font(button1.Font.FontFamily, (int)(initial_font2_size * ratio));
+            button2.Font = new Font(button2.Font.FontFamily, (int)(initial_font2_size * ratio));
             label1.Font = new Font(label1.Font.FontFamily, (int)(initial_font1_size * ratio));
             label2.Font = new Font(label2.Font.FontFamily, (int)(initial_font1_size * ratio));
             textBox1.Font = new Font(textBox1.Font.FontFamily, (int)(initial_font2_size * ratio));
@@ -125,6 +124,7 @@ namespace WindowsFormsApp1
             comboBox2.Font = new Font(comboBox2.Font.FontFamily, (int)(initial_font2_size * ratio));
 
             button1.Left = (this.ClientSize.Width - button1.Width) / 2;
+            button2.Left = (this.ClientSize.Width - button2.Width) / 2;
             label1.Left = this.ClientSize.Width / 4 - label1.Width / 2;
             label2.Left = this.ClientSize.Width / 4 * 3 - label2.Width / 2;
             textBox1.Left = this.ClientSize.Width / 4 - textBox1.Width / 2;
@@ -157,6 +157,12 @@ namespace WindowsFormsApp1
                 this.Height = 480;
             }
             this.Location = new Point(0,0);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form question_2 = new question_2();
+            question_2.Show();
         }
     }
 }

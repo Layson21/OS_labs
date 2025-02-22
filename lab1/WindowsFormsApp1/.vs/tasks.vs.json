@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-WindowsFormsApp1",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
