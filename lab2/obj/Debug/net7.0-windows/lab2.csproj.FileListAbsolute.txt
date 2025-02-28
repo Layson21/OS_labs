@@ -1,0 +1,16 @@
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\bin\Debug\net7.0-windows\lab2.exe
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\bin\Debug\net7.0-windows\lab2.deps.json
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\bin\Debug\net7.0-windows\lab2.runtimeconfig.json
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\bin\Debug\net7.0-windows\lab2.dll
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\bin\Debug\net7.0-windows\lab2.pdb
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.Form1.resources
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.csproj.GenerateResource.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.AssemblyInfoInputs.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.AssemblyInfo.cs
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.csproj.CoreCompileInputs.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.dll
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\refint\lab2.dll
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.pdb
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\lab2.genruntimeconfig.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab2\obj\Debug\net7.0-windows\ref\lab2.dll

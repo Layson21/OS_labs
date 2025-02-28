@@ -31,23 +31,24 @@ namespace WindowsFormsApp1
         {
             int x = this.button1.Location.X;
             int y = this.button1.Location.Y;
-            if ((this.button1.Location.X == 0) && (vector[0] == -1))
+            int speed = 3;
+            if ((this.button1.Location.X <= 0) && (vector[0] == -1))
             {
                 vector[0] = 1;
             }
-            if ((this.button1.Location.Y == 0) && (vector[1] == -1))
+            if ((this.button1.Location.Y <= 0) && (vector[1] == -1))
             {
                 vector[1] = 1;
             }
-            if ((this.button1.Location.X == ClientSize.Width-this.button1.Width) && (vector[0] == 1))
+            if ((this.button1.Location.X >= ClientSize.Width-this.button1.Width) && (vector[0] == 1))
             {
                 vector[0] = -1;
             }
-            if ((this.button1.Location.Y == ClientSize.Height- this.button1.Height) && (vector[1] == 1))
+            if ((this.button1.Location.Y >= ClientSize.Height- this.button1.Height) && (vector[1] == 1))
             {
                 vector[1] = -1;
             }
-            this.button1.Location = new Point(x + vector[0], y + vector[1]);
+            this.button1.Location = new Point(x + vector[0] * speed, y + vector[1] * speed);
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -84,5 +84,10 @@ namespace WindowsFormsApp1
             Form question_3 = new question_3();
             question_3.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
