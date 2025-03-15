@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9G7SzRCvkb6YLddkJ1dMXdfuJZa7l5rXWiCFAMc4mAEEzB1mVrzF5we9R86KPT2y0GdnBC66w2U7ugTz0zvdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disen\\OneDrive\\Документы\\учеба\\университет\\4 семестр\\ос\\OS_labs\\kr1\\kr1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disen\\.nuget\\packages\\system.codedom\\9.0.3\\system.codedom.9.0.3.nupkg.sha512",
+    "C:\\Users\\disen\\.nuget\\packages\\system.management\\9.0.3\\system.management.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

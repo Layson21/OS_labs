@@ -72,8 +72,6 @@ namespace lab2
                     TreeNode rootNode = new TreeNode(drive.Name)
                     {
                         Tag = drive.Name,
-                        ImageKey = "drive",
-                        SelectedImageKey = "drive"
                     };
                     rootNode.Nodes.Add("Загрузка...");
                     treeView1.Nodes.Add(rootNode);
@@ -99,8 +97,6 @@ namespace lab2
                     TreeNode dirNode = new TreeNode(dirName)
                     {
                         Tag = dir,
-                        ImageKey = "folder",
-                        SelectedImageKey = "folder"
                     };
 
                     if (Directory.GetDirectories(dir).Length > 0)
@@ -119,8 +115,6 @@ namespace lab2
                     TreeNode fileNode = new TreeNode(fileName)
                     {
                         Tag = file,
-                        ImageKey = "file",
-                        SelectedImageKey = "file"
                     };
 
 

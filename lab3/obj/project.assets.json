@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Rmg.Windows.ShellControls/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Rmg.Windows.ShellControls.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Rmg.Windows.ShellControls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rmg.Windows.ShellControls/1.0.0": {
+      "sha512": "7HyPWrXhLzrto9+c9BwWZAvyGdmeVCjBzVp3ORykdzBKJ8t3tjzhqdGEF1ktZr+mAq2fF7C5p0nSMVRJCdJF8A==",
+      "type": "package",
+      "path": "rmg.windows.shellcontrols/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Rmg.Windows.ShellControls.dll",
+        "rmg.windows.shellcontrols.1.0.0.nupkg.sha512",
+        "rmg.windows.shellcontrols.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Rmg.Windows.ShellControls >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\disen\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\disen\\OneDrive\\Документы\\учеба\\университет\\4 семестр\\ос\\OS_labs\\lab3\\lab3.csproj",
+      "projectName": "lab3",
+      "projectPath": "C:\\Users\\disen\\OneDrive\\Документы\\учеба\\университет\\4 семестр\\ос\\OS_labs\\lab3\\lab3.csproj",
+      "packagesPath": "C:\\Users\\disen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\disen\\OneDrive\\Документы\\учеба\\университет\\4 семестр\\ос\\OS_labs\\lab3\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\disen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "Rmg.Windows.ShellControls": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Rmg.Windows.ShellControls 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Rmg.Windows.ShellControls",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

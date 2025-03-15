@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6rbUAbOLhqInkCLXFmXZZ4qnuUmFK7nOBLfzu08g8xwSjEqJFjE0Ni6HWAeI1rBeqcE05/MqRe8hvv/KMjaVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disen\\OneDrive\\Документы\\учеба\\университет\\4 семестр\\ос\\OS_labs\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disen\\.nuget\\packages\\rmg.windows.shellcontrols\\1.0.0\\rmg.windows.shellcontrols.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Rmg.Windows.ShellControls 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Rmg.Windows.ShellControls",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

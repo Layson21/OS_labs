@@ -1,0 +1,1080 @@
+[01.03.2025 12:26:27] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104379 МБ
+        Used Space: 374 ГБ / 383354 МБ
+[01.03.2025 12:26:27] - End logging disks info.
+
+
+
+[01.03.2025 12:26:32] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:26:32] - End logging disks info.
+
+
+
+[01.03.2025 12:26:37] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104383 МБ
+        Used Space: 374 ГБ / 383350 МБ
+[01.03.2025 12:26:37] - End logging disks info.
+
+
+
+[01.03.2025 12:26:42] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104383 МБ
+        Used Space: 374 ГБ / 383350 МБ
+[01.03.2025 12:26:42] - End logging disks info.
+
+
+
+[01.03.2025 12:26:47] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104383 МБ
+        Used Space: 374 ГБ / 383350 МБ
+[01.03.2025 12:26:47] - End logging disks info.
+
+
+
+[01.03.2025 12:26:52] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:26:52] - End logging disks info.
+
+
+
+[01.03.2025 12:26:57] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:26:57] - End logging disks info.
+
+
+
+[01.03.2025 12:27:02] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:27:02] - End logging disks info.
+
+
+
+[01.03.2025 12:27:07] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:27:07] - End logging disks info.
+
+
+
+[01.03.2025 12:27:12] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:27:12] - End logging disks info.
+
+
+
+[01.03.2025 12:27:17] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:27:17] - End logging disks info.
+
+
+
+[01.03.2025 12:27:22] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:27:22] - End logging disks info.
+
+
+
+[01.03.2025 12:27:27] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104382 МБ
+        Used Space: 374 ГБ / 383351 МБ
+[01.03.2025 12:27:27] - End logging disks info.
+
+
+
+[01.03.2025 12:27:32] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104381 МБ
+        Used Space: 374 ГБ / 383352 МБ
+[01.03.2025 12:27:32] - End logging disks info.
+
+
+
+[01.03.2025 12:27:37] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104381 МБ
+        Used Space: 374 ГБ / 383352 МБ
+[01.03.2025 12:27:37] - End logging disks info.
+
+
+
+[01.03.2025 12:27:42] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104381 МБ
+        Used Space: 374 ГБ / 383352 МБ
+[01.03.2025 12:27:42] - End logging disks info.
+
+
+
+[01.03.2025 12:27:47] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104381 МБ
+        Used Space: 374 ГБ / 383352 МБ
+[01.03.2025 12:27:47] - End logging disks info.
+
+
+
+[01.03.2025 12:27:52] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104380 МБ
+        Used Space: 374 ГБ / 383353 МБ
+[01.03.2025 12:27:52] - End logging disks info.
+
+
+
+[01.03.2025 12:27:57] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104380 МБ
+        Used Space: 374 ГБ / 383353 МБ
+[01.03.2025 12:27:57] - End logging disks info.
+
+
+
+[01.03.2025 12:28:02] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:02] - End logging disks info.
+
+
+
+[01.03.2025 12:28:07] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:07] - End logging disks info.
+
+
+
+[01.03.2025 12:28:12] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:12] - End logging disks info.
+
+
+
+[01.03.2025 12:28:17] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:17] - End logging disks info.
+
+
+
+[01.03.2025 12:28:22] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:22] - End logging disks info.
+
+
+
+[01.03.2025 12:28:27] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:27] - End logging disks info.
+
+
+
+[01.03.2025 12:28:32] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:32] - End logging disks info.
+
+
+
+[01.03.2025 12:28:37] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:37] - End logging disks info.
+
+
+
+[01.03.2025 12:28:42] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:42] - End logging disks info.
+
+
+
+[01.03.2025 12:28:47] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:47] - End logging disks info.
+
+
+
+[01.03.2025 12:28:52] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:52] - End logging disks info.
+
+
+
+[01.03.2025 12:28:57] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:28:57] - End logging disks info.
+
+
+
+[01.03.2025 12:29:02] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:02] - End logging disks info.
+
+
+
+[01.03.2025 12:29:07] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:07] - End logging disks info.
+
+
+
+[01.03.2025 12:29:12] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:12] - End logging disks info.
+
+
+
+[01.03.2025 12:29:17] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:17] - End logging disks info.
+
+
+
+[01.03.2025 12:29:22] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:22] - End logging disks info.
+
+
+
+[01.03.2025 12:29:27] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:27] - End logging disks info.
+
+
+
+[01.03.2025 12:29:32] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:32] - End logging disks info.
+
+
+
+[01.03.2025 12:29:37] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:37] - End logging disks info.
+
+
+
+[01.03.2025 12:29:42] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:42] - End logging disks info.
+
+
+
+[01.03.2025 12:29:48] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:48] - End logging disks info.
+
+
+
+[01.03.2025 12:29:53] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:53] - End logging disks info.
+
+
+
+[01.03.2025 12:29:58] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:29:58] - End logging disks info.
+
+
+
+[01.03.2025 12:30:03] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:03] - End logging disks info.
+
+
+
+[01.03.2025 12:30:08] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:08] - End logging disks info.
+
+
+
+[01.03.2025 12:30:13] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:13] - End logging disks info.
+
+
+
+[01.03.2025 12:30:18] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:18] - End logging disks info.
+
+
+
+[01.03.2025 12:30:23] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:23] - End logging disks info.
+
+
+
+[01.03.2025 12:30:28] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:28] - End logging disks info.
+
+
+
+[01.03.2025 12:30:33] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104378 МБ
+        Used Space: 374 ГБ / 383355 МБ
+[01.03.2025 12:30:33] - End logging disks info.
+
+
+
+[01.03.2025 12:30:38] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104377 МБ
+        Used Space: 374 ГБ / 383356 МБ
+[01.03.2025 12:30:38] - End logging disks info.
+
+
+
+[01.03.2025 12:30:43] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104377 МБ
+        Used Space: 374 ГБ / 383356 МБ
+[01.03.2025 12:30:43] - End logging disks info.
+
+
+
+[01.03.2025 12:30:48] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104377 МБ
+        Used Space: 374 ГБ / 383356 МБ
+[01.03.2025 12:30:48] - End logging disks info.
+
+
+
+[01.03.2025 12:30:53] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:30:53] - End logging disks info.
+
+
+
+[01.03.2025 12:30:58] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:30:58] - End logging disks info.
+
+
+
+[01.03.2025 12:31:03] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:03] - End logging disks info.
+
+
+
+[01.03.2025 12:31:08] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:08] - End logging disks info.
+
+
+
+[01.03.2025 12:31:13] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:13] - End logging disks info.
+
+
+
+[01.03.2025 12:31:18] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:18] - End logging disks info.
+
+
+
+[01.03.2025 12:31:23] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:23] - End logging disks info.
+
+
+
+[01.03.2025 12:31:28] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:28] - End logging disks info.
+
+
+
+[01.03.2025 12:31:33] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:33] - End logging disks info.
+
+
+
+[01.03.2025 12:31:38] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:38] - End logging disks info.
+
+
+
+[01.03.2025 12:31:43] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:43] - End logging disks info.
+
+
+
+[01.03.2025 12:31:48] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:48] - End logging disks info.
+
+
+
+[01.03.2025 12:31:53] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104376 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:31:53] - End logging disks info.
+
+
+
+[01.03.2025 12:31:58] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104375 МБ
+        Used Space: 374 ГБ / 383358 МБ
+[01.03.2025 12:31:58] - End logging disks info.
+
+
+
+[01.03.2025 12:32:03] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104375 МБ
+        Used Space: 374 ГБ / 383358 МБ
+[01.03.2025 12:32:03] - End logging disks info.
+
+
+
+[01.03.2025 12:32:08] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104375 МБ
+        Used Space: 374 ГБ / 383358 МБ
+[01.03.2025 12:32:08] - End logging disks info.
+
+
+
+[01.03.2025 12:32:13] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104375 МБ
+        Used Space: 374 ГБ / 383358 МБ
+[01.03.2025 12:32:13] - End logging disks info.
+
+
+
+[01.03.2025 12:32:23] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104377 МБ
+        Used Space: 374 ГБ / 383356 МБ
+[01.03.2025 12:32:23] - End logging disks info.
+
+
+
+[01.03.2025 12:32:28] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104377 МБ
+        Used Space: 374 ГБ / 383357 МБ
+[01.03.2025 12:32:28] - End logging disks info.
+
+
+
+[01.03.2025 12:33:02] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104369 МБ
+        Used Space: 374 ГБ / 383364 МБ
+[01.03.2025 12:33:02] - End logging disks info.
+
+
+
+[01.03.2025 12:33:07] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104370 МБ
+        Used Space: 374 ГБ / 383363 МБ
+[01.03.2025 12:33:07] - End logging disks info.
+
+
+
+[01.03.2025 12:45:23] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104360 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:45:23] - End logging disks info.
+
+
+
+[01.03.2025 12:45:27] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383372 МБ
+[01.03.2025 12:45:27] - End logging disks info.
+
+
+
+[01.03.2025 12:45:32] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:45:32] - End logging disks info.
+
+
+
+[01.03.2025 12:45:38] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383372 МБ
+[01.03.2025 12:45:38] - End logging disks info.
+
+
+
+[01.03.2025 12:45:43] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383372 МБ
+[01.03.2025 12:45:43] - End logging disks info.
+
+
+
+[01.03.2025 12:45:48] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383372 МБ
+[01.03.2025 12:45:48] - End logging disks info.
+
+
+
+[01.03.2025 12:45:53] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383372 МБ
+[01.03.2025 12:45:53] - End logging disks info.
+
+
+
+[01.03.2025 12:45:58] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:45:58] - End logging disks info.
+
+
+
+[01.03.2025 12:46:03] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:46:03] - End logging disks info.
+
+
+
+[01.03.2025 12:46:08] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104361 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:46:08] - End logging disks info.
+
+
+
+[01.03.2025 12:46:13] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104360 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:46:13] - End logging disks info.
+
+
+
+[01.03.2025 12:46:18] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104360 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:46:18] - End logging disks info.
+
+
+
+[01.03.2025 12:46:23] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104360 МБ
+        Used Space: 374 ГБ / 383373 МБ
+[01.03.2025 12:46:23] - End logging disks info.
+
+
+
+[01.03.2025 12:46:28] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104360 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:46:28] - End logging disks info.
+
+
+
+[01.03.2025 12:46:33] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:46:33] - End logging disks info.
+
+
+
+[01.03.2025 12:46:38] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:46:38] - End logging disks info.
+
+
+
+[01.03.2025 12:46:43] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:46:43] - End logging disks info.
+
+
+
+[01.03.2025 12:46:48] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:46:48] - End logging disks info.
+
+
+
+[01.03.2025 12:46:53] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:46:53] - End logging disks info.
+
+
+
+[01.03.2025 12:46:58] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104357 МБ
+        Used Space: 374 ГБ / 383376 МБ
+[01.03.2025 12:46:58] - End logging disks info.
+
+
+
+[01.03.2025 12:47:03] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104357 МБ
+        Used Space: 374 ГБ / 383376 МБ
+[01.03.2025 12:47:03] - End logging disks info.
+
+
+
+[01.03.2025 12:47:08] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104357 МБ
+        Used Space: 374 ГБ / 383376 МБ
+[01.03.2025 12:47:08] - End logging disks info.
+
+
+
+[01.03.2025 12:47:13] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104357 МБ
+        Used Space: 374 ГБ / 383376 МБ
+[01.03.2025 12:47:13] - End logging disks info.
+
+
+
+[01.03.2025 12:47:19] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104357 МБ
+        Used Space: 374 ГБ / 383376 МБ
+[01.03.2025 12:47:19] - End logging disks info.
+
+
+
+[01.03.2025 12:47:24] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:24] - End logging disks info.
+
+
+
+[01.03.2025 12:47:29] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:29] - End logging disks info.
+
+
+
+[01.03.2025 12:47:34] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:34] - End logging disks info.
+
+
+
+[01.03.2025 12:47:39] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:39] - End logging disks info.
+
+
+
+[01.03.2025 12:47:44] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:44] - End logging disks info.
+
+
+
+[01.03.2025 12:47:49] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:49] - End logging disks info.
+
+
+
+[01.03.2025 12:47:54] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383375 МБ
+[01.03.2025 12:47:54] - End logging disks info.
+
+
+
+[01.03.2025 12:47:59] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 101 ГБ / 104359 МБ
+        Used Space: 374 ГБ / 383374 МБ
+[01.03.2025 12:47:59] - End logging disks info.
+
+
+
+[03.03.2025 20:43:33] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 71 ГБ / 73363 МБ
+        Used Space: 404 ГБ / 414371 МБ
+[03.03.2025 20:43:33] - End logging disks info.
+
+
+
+[03.03.2025 20:43:38] - Start logging disks info:
+    Disk C:\
+        Format: NTFS
+        Total Size: 476 ГБ / 487734 МБ
+        Free Space: 71 ГБ / 73352 МБ
+        Used Space: 404 ГБ / 414381 МБ
+[03.03.2025 20:43:38] - End logging disks info.
+
+
+
