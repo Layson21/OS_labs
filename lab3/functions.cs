@@ -1,6 +1,3 @@
-using System;
-using System.IO;
-using Microsoft.VisualBasic.FileIO;
 using System.Collections.Specialized;
 using System.Diagnostics;
 using Microsoft.Win32;
@@ -121,18 +118,6 @@ class FileManager
 
                 if (File.Exists(sourcePath))
                 {
-                    if (File.Exists(targetPath))
-                    {
-                        DialogResult result = MessageBox.Show(
-                            $"Файл {Path.GetFileName(sourcePath)} уже существует. Заменить?",
-                            "Подтверждение",
-                            MessageBoxButtons.YesNo,
-                            MessageBoxIcon.Question);
-
-                        if (result == DialogResult.No)
-                            continue;
-                    }
-
                     File.Copy(sourcePath, targetPath, true);
                 }
                 else if (Directory.Exists(sourcePath))
