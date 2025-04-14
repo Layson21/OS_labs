@@ -104,6 +104,12 @@ class FileManager
     {
         try
         {
+            if (destinationPath == "MyComputer")
+            {
+                MessageBox.Show("Ошибка! В данную директорию невозможно соверишть вставку.");
+                return;
+            }
+
             if (!Clipboard.ContainsFileDropList())
             {
                 MessageBox.Show("Буфер обмена пуст или не содержит файлов/папок.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -173,8 +179,6 @@ class FileManager
                 string targetSubDir = Path.Combine(destinationDir, Path.GetFileName(subDir));
                 CopyDirectory(subDir, targetSubDir);
             }
-
-            Debug.WriteLine($"Копирование завершено: {sourceDir}");
         }
         catch (Exception ex)
         {
