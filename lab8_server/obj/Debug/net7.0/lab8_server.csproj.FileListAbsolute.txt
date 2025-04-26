@@ -1,0 +1,14 @@
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\bin\Debug\net7.0\lab8_server.exe
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\bin\Debug\net7.0\lab8_server.deps.json
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\bin\Debug\net7.0\lab8_server.runtimeconfig.json
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\bin\Debug\net7.0\lab8_server.dll
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\bin\Debug\net7.0\lab8_server.pdb
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.AssemblyInfoInputs.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.AssemblyInfo.cs
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.csproj.CoreCompileInputs.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.dll
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\refint\lab8_server.dll
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.pdb
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\lab8_server.genruntimeconfig.cache
+C:\Users\disen\OneDrive\Документы\учеба\университет\4 семестр\ос\OS_labs\lab8_server\obj\Debug\net7.0\ref\lab8_server.dll
